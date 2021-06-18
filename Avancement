@@ -9,3 +9,5 @@ Ajout de fonctions pour permettre une interaction avec chaque item avec une pres
 "Fausses données" utilisées pour faire les tests. Création d'une fonction ajoutData() et refreshData() pour simplifier le code.
 
 Cliquer sur un item le supprimera. Le bouton "récuperer données" ajoute des données et "vider liste" supprime toutes les données.
+
+Modification pour qu'on puisse modifier l'horaire de l'élément séléctionné en remplissant un formulaire en bas de l'application puis en cliquant sur le bouton valider.
